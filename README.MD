@@ -1,5 +1,5 @@
 # LoginApplication
-  A login application created using C# with features such as:
+  A login application created using C# with features such as: </br>
   -Creating an new account
   -Deleting an existing account
   -User roles such as admin and moderator
